@@ -25,7 +25,7 @@ Google’s NotebookLM acts like a personal research assistant. You upload your f
 **Core focus:** Q&A over your content — essentially a scaled-up, personal RAG system.
 
 **How it likely works:**
-1. **User uploads files** (PDFs, notes, slides, etc.)  
+1. **User uploads files** (PDFs, notes, slides ,or any files etc.)  
 2. **Preprocessing** — Stores them for retrieval later.  
 3. **User asks a question** — e.g., _“What were the key insights from my Q2 strategy deck?”_  
 4. **Planning** — Interprets task type (summary, Q&A, comparison?), identifies relevant docs/sections.  
@@ -116,4 +116,5 @@ In the next part, we’ll wrap up the series:
 - Take a quick look at where **agentic AI** is headed
 
 PS: We also teach a widely loved course on how to actually build AI systems in this fast-changing environment, using a problem-first approach. It’s designed for PMs, leaders, engineers, decision-makers etc. who are working within real-world constraints. Alumni come from Google, Meta, Apple, Netflix, AWS, Spotify, Snapchat, Deloitte, and more. Our next cohort starts soon. Our next cohort starts soon. Early bird pricing is live: use the code "GITHUB" to get $300 off (Valid only for August 2025) to [register here](https://maven.com/aishwarya-kiriti/genai-system-design)!!
+
 
